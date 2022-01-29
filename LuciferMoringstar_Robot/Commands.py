@@ -344,7 +344,7 @@ async def bot_info(bot, message):
         [
             InlineKeyboardButton
                 (
-                     'Video', url=f'{TUTORIAL}'
+                     'Video', url=f'{no}'
                 )
         ]
     ]
